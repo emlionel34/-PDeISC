@@ -1,0 +1,71 @@
+/* Estilos personalizados */
+body {
+    background-color: #9e9e9e;
+    color: #333;
+  }
+  
+  .navegacion {
+    background-color: #28a745;
+  }
+  
+  .enlace {
+    color: white !important;
+  }
+  
+  .enlace:hover {
+    color: #ffd700 !important;
+  }
+  
+  .tarjeta {
+    margin-bottom: 20px;
+  }
+  
+  .encabezado {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .cuerpos 
+  {
+    background-color: #f8f9fa;
+  }
+  
+  .footer 
+  {
+    background-color: grey;
+    color: white;
+    padding: 20px auto;
+    text-align: center;
+  }
+  
+  .pie a 
+  {
+    color: white;
+  }
+  
+  .pie a:hover 
+  {
+    color: #ffd700;
+  }
+  
+  .titulo, .subtitulo 
+  {
+    color: #28a745;
+  }
+  
+  .fila 
+  {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .columna 
+  {
+    margin-bottom: 20px;
+  }
+  .imagen-card 
+  {
+  width: 100%; 
+  height: auto; 
+  object-fit: cover; 
+}
